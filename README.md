@@ -20,5 +20,3 @@ https://machinelearningmastery.com/columntransformer-for-numerical-and-categoric
 
 ## Summary of Findings
 By simply optimizing your top teams you can create a quick manageable process. Take your best guess about which teams are worth tinkering with and optimize to play the chalk and/or the optimal stack construction. This gives the most practical, profitable, and easy to implement strategy which can be done in most optimizers.
-
-A blog describing the findings more in depth also appears here: https://medium.com/@travis.rothlisberger/determining-winning-roster-construction-for-nfl-daily-fantasy-contests-a6b27b99c68c
