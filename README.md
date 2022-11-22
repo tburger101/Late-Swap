@@ -18,4 +18,4 @@ and output the final form to be analyzed.
 https://www.armchairanalysis.com - Used to help create unique input data about the lineups
 
 ## Summary of Findings
-Late swap decision making really involves two main questions. The first question is do I have any chance at a top 10 outcome? It appears from historical data that 6–7% efficiency rank is around when you should optimize for the win. Anything worse just optimize your team to maximize points and hope to cash. However, if you are in the top 6–7% then it becomes where do I stand? If you are near the top of the leader board then optimize for points. If no then look for a pivot.
+Late swap decision making really involves two main questions. The first question is do I have any chance at a top 10 outcome? It appears from historical data that 6–7% efficiency rank is about the breakeven point. Anything worse than that just optimize to maximize points and hope to cash. However, if you are in the top 6–7% then it becomes where do I stand? If you are near the top of the leader board then optimize for points. If no then look for a lower owned player to make up ground on the field.
